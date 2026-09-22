@@ -2,13 +2,17 @@
 
 > Descripción (OPCIONAL)
 ### 1. Descripción paso uno
+
 Texto descriptivo (OPCIONAL)
+
 ```bash
 código
 ```
 
 ### 2. Descripción paso dos
-> Descripción (OPCIONAL)
+
+Texto descriptivo (OPCIONAL)
+
 ```bash
 código
 ```
